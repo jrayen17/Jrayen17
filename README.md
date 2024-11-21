@@ -143,7 +143,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/jasonrayen17/jasonrayen17/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/jrayen17/jrayen17/output/snake.svg" alt="Snake animation" />
 
 ###
 
